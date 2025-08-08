@@ -1,4 +1,4 @@
-# CMES Environment Generator - create_environment.py
+# Data Generator
 
 ## Overview
 `create_environment.py` is a script that creates and manages environments for robotic manipulation and picking simulations using NVIDIA Isaac Sim. This script simulates scenarios where randomly placed objects in a KLT box are removed one by one, collecting camera data and movement analysis data at each step.
